@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_seventh_question">SeventhQuestion</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="practice_mode">Practice mode</string>
+    <string name="learn_mode">Learn mode</string>
+    <string name="no_of_q">Number of questions </string>
+    <string name="ten">:10</string>
+    <string name="topic">Topic</string>
+    <string name="pns">:KOTLIN</string>
+    <string name="diff_level">Difficulty level</string>
+    <string name="med">:Medium</string>
+    <string name="ideal_durn">Ideal Duration</string>
+    <string name="fif">:20 mins</string>
+    <string name="hun">:20 mins</string>
+    <string name="start_practice">Start Practice</string>
+    <string name="start_learning">Start Learning</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_eigth_question">EigthQuestion</string>
+    <string name="title_activity_practice_mode_questions">PracticeModeQuestions</string>
+    <string name="title_activity_practice">Practice</string>
+    <string name="display_time">Time left: </string>
+    <string name="colon">:</string>
+</resources>
